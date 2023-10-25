@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="sectorIcon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs12" /><sodipodi:namedview
+   id="namedview10"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.829"
+   inkscape:cx="501.20627"
+   inkscape:cy="500.60314"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon </metadata>
+<g
+   id="g6"><path
+     d="M990,500c0-19.5-15.8-35.4-35.4-35.4H535.3V45.4c0-19.5-15.8-35.4-35.4-35.4c-66.1,0-130.3,13-190.7,38.5c-58.4,24.7-110.7,60-155.7,105c-45,45-80.3,97.4-105,155.8C23,369.7,10,433.9,10,500c0,66.1,13,130.3,38.5,190.7c24.7,58.3,60,110.7,105,155.7c45,45,97.4,80.3,155.7,105C369.7,977,433.8,990,500,990c66.1,0,130.3-13,190.7-38.5c58.4-24.7,110.8-60,155.7-105c45-45,80.3-97.4,105-155.7C977,630.3,990,566.2,990,500C990,500,990,500,990,500C990,500,990,500,990,500z M796.5,796.5c-38.5,38.5-83.4,68.8-133.3,89.9c-51.7,21.9-106.6,32.9-163.2,32.9c-56.6,0-111.5-11.1-163.2-32.9c-49.9-21.1-94.8-51.4-133.3-89.9c-38.5-38.5-68.7-83.4-89.9-133.3C91.8,611.5,80.7,556.6,80.7,500c0-56.6,11.1-111.5,32.9-163.2c21.1-49.9,51.3-94.8,89.9-133.3c38.5-38.5,83.4-68.8,133.3-89.9c40.8-17.3,83.7-27.8,127.8-31.5V500c0,19.5,15.8,35.4,35.4,35.4h417.8c-3.7,44.1-14.2,87-31.5,127.8C865.2,713.1,835,758,796.5,796.5z"
+     id="path4"
+     style="fill:#337ab7;fill-opacity:1" /></g>
+</svg>
